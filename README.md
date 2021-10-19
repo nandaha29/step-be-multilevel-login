@@ -100,6 +100,7 @@ subjek bab @produktif "Bab Kardinalitas"
   + express = 
   + cors = 
   + bodyparser = 
+  + node memakai MCR (Models, Controller, Router), jika laravel MVC(Models, View, Controller)
 
 
 
